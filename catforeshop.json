@@ -1,0 +1,6 @@
+[ 
+{ "title": "Shirt", "price": 150, "image": "img/shirt.png" },
+{ "title": "Socks", "price": 50, "image": "img/socks.png" },
+{ "title": "Jacket", "price": 350, "image": "img/jacket.png" },
+{ "title": "Shoes", "price": 250, "image": "img/shoes.png" }
+]
