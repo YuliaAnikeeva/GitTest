@@ -2,5 +2,10 @@
 { "title": "Shirt", "price": 150, "image": "img/shirt.png" },
 { "title": "Socks", "price": 50, "image": "img/socks.png" },
 { "title": "Jacket", "price": 350, "image": "img/jacket.png" },
+{ "title": "Polo Shirt", "price": 100, "image": "img/polo-shirt.png" },
+{ "title": "Slim fit pants", "price": 200, "image": "img/slim-fit-pants.png" },
+{ "title": "Trench coat", "price": 500, "image": "img/trench-coat.png" },
+{ "title": "Tulle skirt", "price": 200, "image": "img/tulle-skirt.png" },
+{ "title": "Dress", "price": 300, "image": "img/dress.png" },
 { "title": "Shoes", "price": 250, "image": "img/shoes.png" }
 ]
